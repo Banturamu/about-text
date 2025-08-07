@@ -1,2 +1,3 @@
 # about-text
-student
+name 
+course
